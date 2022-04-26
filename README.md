@@ -1,4 +1,4 @@
-### <h2>Hi👋, I am Johnny</h2>
+<h1>Hi👋, I am Johnny</h1>
 </br>
 <h2>GitHub Stats</h2>
 
