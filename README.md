@@ -1,6 +1,6 @@
 <h1>Hi👋, I am Johnny</h1>
 </br>
-Profile under construction
+Profile under construction ...
 
 
 <!-- <h2>GitHub Stats</h2>
