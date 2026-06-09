@@ -16,3 +16,4 @@ Atualmente me especializando com duas pós-graduações: **Inteligência Artific
 
 ## 📬 Contato & Conexões
 * **LinkedIn**: [in/datasciencejohnny](https://linkedin.com)
+* **Email**: johnny.live26@gmail.com
