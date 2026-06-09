@@ -1,14 +1,18 @@
-<h1>Hi👋, I am Johnny</h1>
-</br>
-Profile under construction ...
+# Olá, eu sou o Johnny! 👋
 
+**Cientista de Dados Júnior** | Bacharel em Sistemas de Informação 🎓
 
-<!-- <h2>GitHub Stats</h2>
+Atualmente me especializando com duas pós-graduações: **Inteligência Artificial & Data Science** e **Computação Forense & Perícia Digital**. Busco atuar profissionalmente transformando dados brutos em inteligência de negócios, desenvolvendo modelos preditivos e gerando insights acionáveis que impulsionem resultados.
 
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Johnny-DF26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>8 -->
+## 🚀 Principais Competências
+* **Linguagens e Ferramentas**: Python, SQL, Jupyter Notebook, Git e GitHub.
+* **Ciência de Dados & ML**: Análise Exploratória, Engenharia de Features, Modelos de Classificação e Regressão (Scikit-Learn).
+* **IA Avançada**: Deep Learning (Redes Neurais Convencionais - CNNs) e Processamento de Linguagem Natural (NLP).
+* **Visualização & Deploy**: Criação de Dashboards interativos com Streamlit para tomada de decisão.
+
+---
+
+## 📬 Contato & Conexões
+* **LinkedIn**: [in/datasciencejohnny](https://linkedin.com)
