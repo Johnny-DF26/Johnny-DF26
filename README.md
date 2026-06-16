@@ -1,6 +1,6 @@
 # Olá, eu sou o Johnny! 👋
 
-**Cientista de Dados Júnior** | Bacharel em Sistemas de Informação 🎓
+**Cientista de Dados | IA & Visão Computacional** | Bacharel em Sistemas de Informação 🎓
 
 Atualmente me especializando com duas pós-graduações: **Inteligência Artificial & Data Science** e **Computação Forense & Perícia Digital**, além de consolidar minhas habilidades práticas através de formações de carreira em Ciência de Dados pela **Alura**. Busco atuar profissionalmente transformando dados brutos em inteligência de negócios, desenvolvendo modelos preditivos e gerando insights acionáveis que impulsionem resultados.
 
