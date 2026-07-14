@@ -8,7 +8,7 @@ Atualmente me especializando com duas pós-graduações: **Inteligência Artific
 
 ## 🚀 Principais Competências
 * **Linguagens e Ferramentas**: Python, SQL, Jupyter Notebook, Git e GitHub.
-* **Ciência de Dados & ML**: Análise Exploratória, Engenharia de Features, Modelos de Classificação e Regressão (Scikit-Learn e PySpark).
+* **Ciência de Dados & ML**: Análise Exploratória (Pandas, Matplotlib e Seaborn), Engenharia de Features, Modelos de Classificação e Regressão (Scikit-Learn e PySpark).
 * **IA Avançada**: Deep Learning (Redes Neurais Convencionais - CNNs) e Processamento de Linguagem Natural (NLP).
 * **Visualização & Deploy**: Criação de Dashboards interativos com Streamlit para tomada de decisão.
 
